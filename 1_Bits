@@ -1,0 +1,20 @@
+Bits are used for representing everything
+2 States -
+    - On (1)
+    - Off (0)
+
+A bit is always one of these two
+
+Nibble = 4 * bits
+Byte = 8 * bits
+
+int = 4 bytes = 16 bits
+char = 1 byte = 4 bits
+
+Hertz - A unit of speed/time
+1 Hertz = 1 second
+Modernly measured in GHz - Gigahertz
+Omnibook has a base of 2 GHz
+
+Cores - Microprocessors / mini brains
+Omnibook has 6
